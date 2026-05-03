@@ -1,6 +1,6 @@
 # 小偶像codex宠物
 
-兼容openai codex desktop pets（https://developers.openai.com/codex/app/settings#codex-pets）格式，以中国网梗著名人物和著名偶像作为宠物
+兼容[openai codex desktop pets](https://developers.openai.com/codex/app/settings#codex-pets) 格式，以中国网梗著名人物和著名偶像作为宠物
 
 # 宠物列表（即将上线）
 
